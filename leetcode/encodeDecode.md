@@ -1,0 +1,2 @@
+- Added string "vik" after looping thru every word
+- for decoding: split the string with the "vik"
